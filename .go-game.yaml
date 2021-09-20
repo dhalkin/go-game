@@ -1,0 +1,5 @@
+# default config
+api:
+  dadjoke:
+    id: 72726161
+    baseUrl: https://icanhazdadjoke.com/
