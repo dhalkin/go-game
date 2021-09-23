@@ -3,3 +3,7 @@ api:
   dadjoke:
     id: 72726161
     baseUrl: https://icanhazdadjoke.com/
+
+path:
+  sandbox: ./sandbox/
+  source: ./sandbox/source/Getting-started.pdf
